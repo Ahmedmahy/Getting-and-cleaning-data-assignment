@@ -5,9 +5,13 @@ A repository for "Getting and Cleaning data" Coursera course containing required
 ## Raw data description
 
 x_data contained 10299 rows and  66 columns
+
 y_data contained 10299 rows and  1 column
+
 there are 561 features
 
+
+A full description of the data used in this project can be found at The UCI Machine Learning Repository here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
 ## Script details
